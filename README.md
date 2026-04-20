@@ -14,5 +14,7 @@ Este proyecto presenta un análisis integral de los datos de ventas de Walmart, 
 * **Visualización de Datos:** Gráficos combinados y segmentadores interactivos.
 
 ## Visualización del Proyecto
+
+![Ejemplo de Datos Limpios]()
 ![Dashboard de Ventas](https://github.com/fferreyra-pixel/analisis-ventas-walmart/blob/main/Captura%20de%20pantalla%202026-04-20%20105805.png)
-*(Sustituye este enlace por la ruta de la imagen que subas a GitHub)*
+
